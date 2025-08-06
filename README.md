@@ -80,16 +80,6 @@ This project is a 3D animated CV/resume generator website that allows users to c
 
 ---
 
-## 📁 Folder Structure
-
-```
-CV-Generator/
-├── auth.html
-├── login.php
-├── signup.php
-├── cv_form.php
-├── cv_script.js---
-
 ## 🧪 How to Use
 
 1. Start XAMPP and ensure Apache & MySQL are running
@@ -102,24 +92,5 @@ CV-Generator/
 4. Sign up or log in
 5. Fill the form and generate your editable CV!
 
----
 
-## 🧠 Educational Use Cases
-
-* Final Year Projects (BS IT / CS)
-* University Portfolios
-* Job Applications
-* Internship CVs
-
----
-
-## 📸 Screenshots
-
-*Add your screenshots here to visualize each feature*
-
----
-
-## 🙋‍♀️ Made by Nimra Khan
-
-*Feel free to customize and enhance further!*
 
